@@ -1,7 +1,7 @@
 # AssemblyLanguageFindings
 What you are viewing is my findings in x86 Tutorial Assembly Languge on Linux.
 
-##Running Codes
+## Running Codes
 - Install Nasm on your WSL or Linux
 ```shell
 $ sudo apt-get install nasm
