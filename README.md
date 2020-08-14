@@ -1,6 +1,9 @@
 # AssemblyLanguageFindings
 What you are viewing is my findings in x86 Tutorial Assembly Languge on Linux.
-
+### Requirements
+- Linux, WSL2 , or  VM Linux
+- Nasm
+- GCC (if C program functions is used)
 ## Running Codes
 - Install Nasm on your WSL or Linux
 ```shell
